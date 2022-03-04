@@ -32,5 +32,4 @@ public class NewCalculator {
         this.lastResult = x * y;
         return this.lastResult;
     }
-    
 }
